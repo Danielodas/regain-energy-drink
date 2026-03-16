@@ -1,0 +1,43 @@
+module Base
+{
+
+	model Regain_Can_Sprite
+	{
+		mesh = PopCanDiet,
+    	texture = WorldItems/Regain_Energy_Drink_Can_Sprite_ModelTex,
+	}
+
+	model Regain_Can_Sprite_Empty
+	{
+		mesh = WorldItems/EmptyPopCan,
+    	texture = WorldItems/Regain_Energy_Drink_Can_Sprite_ModelTex,
+    	scale = 0.011,
+	}
+
+	model Regain_Can_Sprite_Ground
+	{
+		mesh = PopCanRed,
+      	texture = WorldItems/Regain_Energy_Drink_Can_Sprite_ModelTex,
+	}
+
+    model Regain_Can_Sprite_Dark
+	{
+		mesh = PopCanDiet,
+    	texture = WorldItems/Regain_Energy_Drink_Can_Dark_Sprite_ModelTex,
+	}
+
+	model Regain_Can_Sprite_Dark_Empty
+	{
+		mesh = WorldItems/EmptyPopCan,
+    	texture = WorldItems/Regain_Energy_Drink_Can_Dark_Sprite_ModelTex,
+    	scale = 0.011,
+	}
+
+	model Regain_Can_Sprite_Dark_Ground
+	{
+		mesh = PopCanRed,
+      	texture = WorldItems/Regain_Energy_Drink_Can_Dark_Sprite_ModelTex,
+	}
+
+
+}

@@ -1,0 +1,88 @@
+module REGAIN
+{
+	imports
+	{
+		Base
+	}
+
+	item regain_energy_drink
+	{
+		DisplayCategory = Food,
+		ItemType = base:food,
+		Weight = 0.3,
+		Icon = RegainEnergyDrink,
+		FoodType = SoftDrink,
+		CantBeFrozen = TRUE,
+		EatType = popcan,
+		Packaged = TRUE,
+		ReplaceOnUse = regain_energy_drink_empty,
+		FatigueChange = -50.0,
+		HungerChange = -9,
+		ThirstChange = -60,
+		UnhappyChange = -12,
+		Calories = 170,
+		Carbohydrates = 46,
+		Lipids = 0,
+		Proteins = 0,
+		CustomContextMenu = Drink,
+		CustomEatSound = DrinkingFromCan,
+		StaticModel = Regain_Can_Sprite,
+		WorldStaticModel = Regain_Can_Sprite_Ground,
+		Tags = HasMetal,
+		ReduceFoodSickness = 20,
+		PainReduction = 10,
+		FluReduction = 12,
+	}
+
+	item regain_energy_drink_empty
+	{
+		DisplayCategory = Junk,
+		Weight = 0.1,
+		ItemType = base:normal,
+		Icon = RegainEnergyDrink,
+		MetalValue = 10,
+		WorldStaticModel = Regain_Can_Sprite_Empty,
+		Tags = EmptyCan,
+	}
+
+	item regain_energy_drink_dark
+	{
+		DisplayCategory = Food,
+		ItemType = base:food,
+		Weight = 0.3,
+		Icon = RegainEnergyDrink_dark,
+		FoodType = SoftDrink,
+		CantBeFrozen = TRUE,
+		EatType = popcan,
+		Packaged = TRUE,
+		ReplaceOnUse = regain_energy_drink_dark_empty,
+		FatigueChange = -50.0,
+		HungerChange = -9,
+		ThirstChange = -60,
+		UnhappyChange = -12,
+		Calories = 170,
+		Carbohydrates = 46,
+		Lipids = 0,
+		Proteins = 0,
+		CustomContextMenu = Drink,
+		CustomEatSound = DrinkingFromCan,
+		StaticModel = Regain_Can_Sprite_Dark,
+		WorldStaticModel = Regain_Can_Sprite_Dark_Ground,
+		Tags = HasMetal,
+		ReduceFoodSickness = 20,
+		PainReduction = 10,
+		FluReduction = 12,
+	}
+
+	item regain_energy_drink_dark_empty
+	{
+		DisplayCategory = Junk,
+		Weight = 0.1,
+		ItemType = base:normal,
+		Icon = RegainEnergyDrink_dark,
+		MetalValue = 10,
+		WorldStaticModel = Regain_Can_Sprite_Dark_Empty,
+		Tags = EmptyCan,
+	}
+
+}

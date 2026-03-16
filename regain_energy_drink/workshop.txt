@@ -1,0 +1,86 @@
+version=1
+id=3684288782
+title=Regain Energy Drink
+description=[h1]Regain Energy Drink[/h1]
+
+description=
+
+description=[h2]Context[/h2]
+
+description=
+
+description=Regain was a popular Japanese energy drink in the 1980s, and it wasn't just a regular energy drink, it was considered a quasi-medicine. It also has very famous TV commercials, like "Can you fight for 24 hours?". It was firstly aimed at businessmen. However, the drink didn't sell so well and was discontinued.
+
+description=
+
+description=[img]https://i.postimg.cc/vTvzYcn9/regain-commercial.png[/img]
+
+description=
+
+description=[h2]Features[/h2]
+
+description=
+
+description=[list]
+
+description=[*]Adds the discontinued Japanese energy drink "Regain"  
+
+description=[*]Reduces fatigue 
+
+description=[*]Can slightly reduce pain and food sickness  
+
+description=[*]Extremely rare spawn rate  
+
+description=[*]Original sprites
+
+description=[*]3D model for full and empty cans
+
+description=[/list]
+
+description=
+
+description=[img]https://i.postimg.cc/gjyztPZT/Item_Regain_Energy_Drink_scaled.png[/img]
+
+description=[img]https://i.postimg.cc/rsGVZLrY/Item_Regain_Energy_Drink_dark_scaled.png[/img]
+
+description=
+
+description=[h2]What is this mod?[/h2]
+
+description=
+
+description=This mod adds Regain, a discontinued Japanese energy drink that was first aimed at businessmen. Now it has made its way to Kentucky. It decreases your fatigue, but it can also reduce pain and food sickness. It really is an energy drink that can act as medicine. You might be thinking it's overpowered, [b]it's not[/b], despite its characteristics, it has an [b]extremely low[/b] spawn rate. Will you collect them or drink them?
+
+description=
+
+description=[h2]Why did I make it?[/h2]
+
+description=
+
+description=I like programming, and I also like Project Zomboid, however, I'm a complete beginner in both modding and Lua. I want to learn but I also want to make new stuff that can be enjoyed by this great community. I thought about making this drink, I looked it up and there were no results, so I decided to finally make it.
+
+description=
+
+description=[h2]Compatibility[/h2]
+
+description=
+
+description=This mod works in the current B42 build for both singleplayer and multiplayer and it will also work with other mods that add beverages and food.
+
+description=
+
+description=[h2]Make me happy[/h2]
+
+description=
+
+description=By rating the mod, I will know your opinion, it does not matter if they are high or low ratings, report any issues you have. You can also comment about mods or updates you would like in the future. I would also appreciate an award if you really feel like giving one! This would really encourage me to keep making mods and learning :)
+
+description=
+
+description=[h2]My other mods[/h2]
+
+description=
+
+description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3361297302][img]https://i.postimg.cc/v8vwKhKk/preview.png[/img][/url]
+tags=Build 42;Items;Language/Translation;Silly/Fun
+visibility=public
